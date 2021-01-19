@@ -1,0 +1,6 @@
+sinc.py
+*.html
+*.csv
+*.zip
+/__pycache__
+!index.html
